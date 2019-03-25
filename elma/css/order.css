@@ -1,0 +1,74 @@
+.order_div{
+	
+	padding: 0.2rem 0.1rem 0.1rem 1rem;
+	background: url(../img/wangzai.jpg) no-repeat;
+	background-size: 0.8rem;
+	background-color: white;
+	background-position: 0.1rem 0.5rem;
+	margin-bottom: 0.4rem;
+}
+
+.order_div_div{
+	border-bottom:1px solid rgba(0,0,0,0.1);
+	padding: 0.2rem 0rem;
+	position: relative;
+}
+
+.order_div_p{
+	font-size: 0.4rem;
+}
+
+.order_div_p_two{
+	font-size: 0.3rem;
+}
+
+.order_div_p_two_position{
+	position: absolute;
+	top: 0.24rem;
+	right: 0.1rem;
+}
+
+.order_div_p_three{
+	font-size: 0.1rem;
+	color: rgba(0,0,0,0.5);
+}
+
+.order_div_p_five{
+	font-size: 0.3rem;
+}
+
+.order_div a{
+	border-radius: 5px;
+	font-size: 0.2rem;
+	display: inline-block;
+	padding: 0.1rem;
+	/*text-align: center;*/
+}
+
+.order_div_a{
+	border:1px solid dodgerblue;
+	color: dodgerblue;
+	position: absolute;
+	top: 0.3rem;
+	right: 2rem;
+}
+
+.order_div_a_two{
+	border:1px solid orange;
+	color: orange;
+	position: absolute;	
+	top: 0.3rem;
+	right: 0.2rem;	
+}
+
+.order_button_div{
+	height: 1rem;
+	position: relative;
+}
+
+.bottom_div{
+	height: 2rem;
+	font-size: 0.3rem;
+	color: #666;
+	text-align: center;
+}

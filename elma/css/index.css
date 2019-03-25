@@ -1,0 +1,166 @@
+/*头部*/
+
+nav{
+	width: 100%;
+	background-image: linear-gradient(90deg,#0af,#0085ff);
+	/*padding: 0.5rem;*/
+	font-size: 0.2rem;
+	overflow: hidden;
+}
+
+.head_box{
+	width: 100%;
+	height: 1.2rem;
+	padding: 0.3rem 0.2rem;
+	position: relative;
+}
+
+.head_box_svg{
+	position: absolute;
+	top: 0.4rem;
+	right: 0rem;
+	z-index: 999;
+	fill: white;
+}
+
+.head_box_two{
+	fill: white;
+	vertical-align: middle;
+}
+
+.nav_first_box{
+	width: 70%;
+	color: white;
+	margin-left: 0.2rem;
+	padding-top: 0.1rem;
+	position: relative;
+}
+
+.userhead{
+	width: 1.2rem;
+	height: 1.2rem;
+	overflow:hidden;
+	border-radius: 100%;
+	background: url(../img/wangzai.jpg) no-repeat;
+	background-size: cover;
+}
+
+.username{
+	font-size: 0.3rem;
+}
+
+.userphone{
+	color: white;
+}
+
+.head_box_three{
+	width: 100%;
+	height: 1.52rem;
+	overflow:hidden;
+	background-color: white;
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+}
+
+.nav_box{
+	width: 49%;
+	text-align: center;	
+	padding: 0.3rem 0rem;
+	/*background-color: white;*/
+}
+
+/*.nav_first_box{
+	padding: 0.3rem 0.2rem;
+}*/
+
+.nav_first_box p{
+	margin-bottom: 0.2rem;
+}
+
+
+.nav_second_box{
+
+	border-right: 1px solid rgba(0,0,0,0.1);
+	/*border-bottom: 2px solid rgba(0,0,0,0.1);*/
+}
+
+.nav_third_box{
+	border-left: 1px solid rgba(0,0,0,0.1);
+	/*border-bottom: 2px solid rgba(0,0,0,0.1);*/
+}
+
+.nav_box_span{
+	font-size: 0.4rem;
+	font-weight: 1000;
+}
+
+.nav_box_span_one{
+	color: #ff5f3e;
+}
+
+.nav_box_span_two{
+	color: #6AC20B;
+}
+
+.red_pocket{
+	font-weight: 700;
+	font-size: 0.3rem;
+	color: #666;
+}
+/*头部*/
+
+
+/*中间选项*/
+.content{
+	margin-top: 0.5rem;
+	font-size: 0.3rem;
+}
+
+.content>div{
+	background-color: white;
+	padding: 0.2rem;
+	position: relative;
+	/*border-top: 1px solid rgba(0,0,0,0.2);*/
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.myadress{
+	margin-bottom: 0.3rem;
+	border-top: 1px solid rgba(0,0,0,0.1);
+	/*border-bottom: 1px solid rgba(0,0,0,0.1);	*/
+}
+
+.gold_shopping{
+	border-top: 1px solid rgba(0,0,0,0.1);	
+}
+
+.share{
+	margin-bottom: 0.3rem;
+	/*border-bottom: 1px solid rgba(0,0,0,0.1);*/
+}
+
+.content_left_arrow{
+	fill: rgba(0,0,0,0.3);
+	position: absolute;
+	top: 0.2rem;
+	right: 0.3rem;
+}
+
+.left_svg{
+	vertical-align: middle;
+}
+/*中间选项*/
+
+
+
+/*隐私*/
+.secret{
+	margin-top: 0.3rem;
+	font-size: 0.3rem;
+	color: dodgerblue;
+	text-align: center;
+}
+/*隐私*/
+
+
+
+
